@@ -1,6 +1,6 @@
 Package.describe({
   name: 'ianpogi5:push',
-  version: '3.0.6',
+  version: '3.1.0',
   summary: 'Isomorphic Push notifications for APN and GCM',
   git: 'https://github.com/raix/push.git'
 });
@@ -12,8 +12,8 @@ Npm.depends({
 });
 
 Cordova.depends({
-  'phonegap-plugin-push': '1.6.4', // 1.3.0
-  'cordova-plugin-device': '1.1.1',
+  'phonegap-plugin-push': '1.10.4', // 1.3.0
+  'cordova-plugin-device': '1.1.6',
 });
 
 Package.registerBuildPlugin({
