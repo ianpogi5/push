@@ -1,6 +1,6 @@
 Package.describe({
   name: 'ianpogi5:push',
-  version: '3.2.0',
+  version: '3.2.1',
   summary: 'Isomorphic Push notifications for APN and GCM',
   git: 'https://github.com/raix/push.git'
 });
